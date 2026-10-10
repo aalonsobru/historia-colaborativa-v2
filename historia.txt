@@ -1,1 +1,3 @@
 Hola somos Aimar y Ariel y nos gusta aprender GIT!
+
+Este es el final de la persona A
