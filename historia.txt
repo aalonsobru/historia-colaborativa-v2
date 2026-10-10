@@ -1,3 +1,6 @@
 Estamos en proceso de desarrollo del archivo
 
 Este es el final de la persona B
+Hola somos Aimar y Ariel y nos gusta aprender GIT!
+
+Este es el final de la persona A
